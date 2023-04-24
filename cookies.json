@@ -1,0 +1,46 @@
+[
+  {
+    "name": "membIdSave",
+    "value": "sj24sj",
+    "domain": "cloud.eais.go.kr",
+    "path": "/",
+    "expires": 1684246256,
+    "size": 16,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "clientid",
+    "value": "040014204884",
+    "domain": "cloud.eais.go.kr",
+    "path": "/",
+    "expires": -1,
+    "size": 20,
+    "httpOnly": false,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "SESSION",
+    "value": "OGNhYzUxNzYtOGVlOC00OThlLWEwNzAtNDQ5MzYxYTQyZGZj",
+    "domain": "cloud.eais.go.kr",
+    "path": "/",
+    "expires": -1,
+    "size": 55,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
