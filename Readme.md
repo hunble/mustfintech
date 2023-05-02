@@ -46,11 +46,11 @@ Note: i think it can be further optimized using fetch for some API calls but i a
 
   
 
-## Task 2:
+## Task 3:
 
-```cd /task2```
+```cd /task3```
 
-```node final_task2.js```
+```node final_task3.js```
 
   
 
